@@ -1,5 +1,5 @@
 {
-  "name": "theme-mdultra",
+  "name": "@alexgorbatchev/theme-mdultra",
   "version": "4.0.0",
   "main": "theme.scss",
   "keywords": [
